@@ -1,5 +1,5 @@
 # SplitBigTiffApp
-C# application to split big tiff image to separate tiff files.
+C# application to split big tiff images to separate tiff files. Successfully tested on 4GB files.
 
 Application is using TiffLibrary: https://github.com/yigolden/TiffLibrary
 
